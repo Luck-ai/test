@@ -7,5 +7,8 @@ requires-python = ">=3.11"
 dependencies = [
     "cuda-python>=13.0.2",
     "tensorflow>=2.20.0",
+    "torch>=2.9.0",
+    "torchaudio>=2.9.0",
+    "torchvision>=0.24.0",
     "ultralytics>=8.3.218",
 ]
